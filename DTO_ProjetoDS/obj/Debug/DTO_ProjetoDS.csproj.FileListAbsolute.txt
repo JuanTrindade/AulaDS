@@ -1,0 +1,15 @@
+C:\Users\ADM\Desktop\aplicacao\DTO_ProjetoDS\bin\Debug\DTO_ProjetoDS.dll
+C:\Users\ADM\Desktop\aplicacao\DTO_ProjetoDS\bin\Debug\DTO_ProjetoDS.pdb
+C:\Users\ADM\Desktop\aplicacao\DTO_ProjetoDS\obj\Debug\DTO_ProjetoDS.csprojResolveAssemblyReference.cache
+C:\Users\ADM\Desktop\aplicacao\DTO_ProjetoDS\obj\Debug\DTO_ProjetoDS.dll
+C:\Users\ADM\Desktop\aplicacao\DTO_ProjetoDS\obj\Debug\DTO_ProjetoDS.pdb
+C:\Users\ADM\Downloads\aplicacao\DTO_ProjetoDS\bin\Debug\DTO_ProjetoDS.dll
+C:\Users\ADM\Downloads\aplicacao\DTO_ProjetoDS\bin\Debug\DTO_ProjetoDS.pdb
+C:\Users\ADM\Downloads\aplicacao\DTO_ProjetoDS\obj\Debug\DTO_ProjetoDS.csprojResolveAssemblyReference.cache
+C:\Users\ADM\Downloads\aplicacao\DTO_ProjetoDS\obj\Debug\DTO_ProjetoDS.dll
+C:\Users\ADM\Downloads\aplicacao\DTO_ProjetoDS\obj\Debug\DTO_ProjetoDS.pdb
+C:\Users\ADM\Downloads\aplication\aplicacao\DTO_ProjetoDS\bin\Debug\DTO_ProjetoDS.dll
+C:\Users\ADM\Downloads\aplication\aplicacao\DTO_ProjetoDS\bin\Debug\DTO_ProjetoDS.pdb
+C:\Users\ADM\Downloads\aplication\aplicacao\DTO_ProjetoDS\obj\Debug\DTO_ProjetoDS.csprojResolveAssemblyReference.cache
+C:\Users\ADM\Downloads\aplication\aplicacao\DTO_ProjetoDS\obj\Debug\DTO_ProjetoDS.dll
+C:\Users\ADM\Downloads\aplication\aplicacao\DTO_ProjetoDS\obj\Debug\DTO_ProjetoDS.pdb

@@ -19,3 +19,10 @@ C:\Users\ADM\Downloads\aplication\aplicacao\DAL_ProjetoDS\bin\Debug\DTO_ProjetoD
 C:\Users\ADM\Downloads\aplication\aplicacao\DAL_ProjetoDS\obj\Debug\DAL_ProjetoDS.csprojResolveAssemblyReference.cache
 C:\Users\ADM\Downloads\aplication\aplicacao\DAL_ProjetoDS\obj\Debug\DAL_ProjetoDS.dll
 C:\Users\ADM\Downloads\aplication\aplicacao\DAL_ProjetoDS\obj\Debug\DAL_ProjetoDS.pdb
+C:\Users\ADM\Downloads\AulaDS-master\DAL_ProjetoDS\bin\Debug\DAL_ProjetoDS.dll
+C:\Users\ADM\Downloads\AulaDS-master\DAL_ProjetoDS\bin\Debug\DAL_ProjetoDS.pdb
+C:\Users\ADM\Downloads\AulaDS-master\DAL_ProjetoDS\bin\Debug\DTO_ProjetoDS.dll
+C:\Users\ADM\Downloads\AulaDS-master\DAL_ProjetoDS\bin\Debug\DTO_ProjetoDS.pdb
+C:\Users\ADM\Downloads\AulaDS-master\DAL_ProjetoDS\obj\Debug\DAL_ProjetoDS.csprojResolveAssemblyReference.cache
+C:\Users\ADM\Downloads\AulaDS-master\DAL_ProjetoDS\obj\Debug\DAL_ProjetoDS.dll
+C:\Users\ADM\Downloads\AulaDS-master\DAL_ProjetoDS\obj\Debug\DAL_ProjetoDS.pdb

@@ -27,7 +27,6 @@ namespace BLL_ProjetoDS
             }
 
 
-
             return DAL_Consulta.ValidarLogin(obj3);
         }
 

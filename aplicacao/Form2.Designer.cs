@@ -263,6 +263,7 @@
             this.maskedTextBox6.Size = new System.Drawing.Size(146, 21);
             this.maskedTextBox6.TabIndex = 40;
             this.maskedTextBox6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.maskedTextBox6.TextMaskFormat = System.Windows.Forms.MaskFormat.ExcludePromptAndLiterals;
             this.maskedTextBox6.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.maskedTextBox6_MaskInputRejected);
             // 
             // textBox4
@@ -427,7 +428,7 @@
             // button2
             // 
             this.button2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button2.Location = new System.Drawing.Point(6, 344);
+            this.button2.Location = new System.Drawing.Point(3, 341);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(92, 38);
             this.button2.TabIndex = 26;
@@ -457,6 +458,7 @@
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Ativo";
             this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
             // radioButton3
             // 
@@ -493,6 +495,7 @@
             this.radioButton4.TabStop = true;
             this.radioButton4.Text = "Masculino";
             this.radioButton4.UseVisualStyleBackColor = true;
+            this.radioButton4.CheckedChanged += new System.EventHandler(this.radioButton4_CheckedChanged);
             // 
             // radioButton1
             // 
@@ -505,6 +508,7 @@
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "Feminino";
             this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // label10
             // 
@@ -526,6 +530,7 @@
             this.maskedTextBox5.Size = new System.Drawing.Size(102, 21);
             this.maskedTextBox5.TabIndex = 13;
             this.maskedTextBox5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.maskedTextBox5.TextMaskFormat = System.Windows.Forms.MaskFormat.ExcludePromptAndLiterals;
             this.maskedTextBox5.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.maskedTextBox5_MaskInputRejected);
             // 
             // label9
@@ -548,6 +553,7 @@
             this.maskedTextBox4.Size = new System.Drawing.Size(102, 21);
             this.maskedTextBox4.TabIndex = 11;
             this.maskedTextBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.maskedTextBox4.TextMaskFormat = System.Windows.Forms.MaskFormat.ExcludePromptAndLiterals;
             this.maskedTextBox4.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.maskedTextBox4_MaskInputRejected);
             // 
             // label8
@@ -569,6 +575,7 @@
             this.maskedTextBox3.Name = "maskedTextBox3";
             this.maskedTextBox3.Size = new System.Drawing.Size(148, 21);
             this.maskedTextBox3.TabIndex = 9;
+            this.maskedTextBox3.TextMaskFormat = System.Windows.Forms.MaskFormat.ExcludePromptAndLiterals;
             this.maskedTextBox3.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.maskedTextBox3_MaskInputRejected);
             // 
             // label7
@@ -591,6 +598,7 @@
             this.maskedTextBox2.Size = new System.Drawing.Size(102, 21);
             this.maskedTextBox2.TabIndex = 7;
             this.maskedTextBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.maskedTextBox2.TextMaskFormat = System.Windows.Forms.MaskFormat.ExcludePromptAndLiterals;
             this.maskedTextBox2.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.maskedTextBox2_MaskInputRejected);
             // 
             // label6

@@ -90,7 +90,7 @@ namespace aplicacao
             {
                 FuncionarioDTO obj = new FuncionarioDTO();
                 obj.UserName = textBox1.Text;
-                obj.UserName = textBox1.Text;
+                obj.Nome = textBox1.Text;
                 obj.RG = maskedTextBox1.Text;
                 obj.CPF = maskedTextBox2.Text ;
                 obj.DataNascimento = maskedTextBox3.Text;
@@ -104,10 +104,28 @@ namespace aplicacao
                 obj.UF = comboBox1.Text;
                 obj.CEP = maskedTextBox6.Text;
 
+                if(radioButton4.Checked == true)
+                {
+                    obj.sexo = radioButton4.Text;
+                }
+                if(radioButton1.Checked == true)
+                {
+                    obj.sexo = radioButton1.Text;
+                }
 
+                if (radioButton2.Checked == true)
+                {
+                    obj.ativo = radioButton2.Text;
+                }
+                if (radioButton3.Checked == true)
+                {
+                    obj.ativo = radioButton3.Text;
+                }
             }
             catch 
-            { }
+            {
+ 
+            }
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -191,6 +209,21 @@ namespace aplicacao
         }
 
         private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton4_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
 
         }

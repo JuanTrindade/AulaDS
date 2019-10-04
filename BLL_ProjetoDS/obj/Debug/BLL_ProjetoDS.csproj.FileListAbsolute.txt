@@ -25,3 +25,12 @@ C:\Users\ADM\Downloads\aplication\aplicacao\BLL_ProjetoDS\bin\Debug\DTO_ProjetoD
 C:\Users\ADM\Downloads\aplication\aplicacao\BLL_ProjetoDS\obj\Debug\BLL_ProjetoDS.csprojResolveAssemblyReference.cache
 C:\Users\ADM\Downloads\aplication\aplicacao\BLL_ProjetoDS\obj\Debug\BLL_ProjetoDS.dll
 C:\Users\ADM\Downloads\aplication\aplicacao\BLL_ProjetoDS\obj\Debug\BLL_ProjetoDS.pdb
+C:\Users\ADM\Downloads\AulaDS-master\BLL_ProjetoDS\bin\Debug\BLL_ProjetoDS.dll
+C:\Users\ADM\Downloads\AulaDS-master\BLL_ProjetoDS\bin\Debug\BLL_ProjetoDS.pdb
+C:\Users\ADM\Downloads\AulaDS-master\BLL_ProjetoDS\bin\Debug\DAL_ProjetoDS.dll
+C:\Users\ADM\Downloads\AulaDS-master\BLL_ProjetoDS\bin\Debug\DTO_ProjetoDS.dll
+C:\Users\ADM\Downloads\AulaDS-master\BLL_ProjetoDS\bin\Debug\DAL_ProjetoDS.pdb
+C:\Users\ADM\Downloads\AulaDS-master\BLL_ProjetoDS\bin\Debug\DTO_ProjetoDS.pdb
+C:\Users\ADM\Downloads\AulaDS-master\BLL_ProjetoDS\obj\Debug\BLL_ProjetoDS.csprojResolveAssemblyReference.cache
+C:\Users\ADM\Downloads\AulaDS-master\BLL_ProjetoDS\obj\Debug\BLL_ProjetoDS.dll
+C:\Users\ADM\Downloads\AulaDS-master\BLL_ProjetoDS\obj\Debug\BLL_ProjetoDS.pdb
